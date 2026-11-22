@@ -1,0 +1,6 @@
+Test,Variables,Méthode,Statistique,p_brute,Taille d'effet,Mesure,p_ajustée_FDR,"Décision (α=0,05)",Interprétation effet
+H1,Age vs Satisfaction,Mann-Whitney U,2419402245.5,0.0,0.16745403850533735,|r| rang bisérial,0.0,Rejet de H0,petit
+H2,Flight Distance vs Satisfaction,Mann-Whitney U,2691604115.0,0.0,0.2988018424629235,|r| rang bisérial,0.0,Rejet de H0,petit
+H3,Class vs Satisfaction,Chi² d'indépendance,32906.17185866312,0.0,0.5033470652376267,V de Cramér,0.0,Rejet de H0,grand
+H4,Type of Travel vs Satisfaction,Chi² d'indépendance,26282.520993423812,0.0,0.449844453435751,V de Cramér,0.0,Rejet de H0,moyen
+H5,In-flight Wifi Service vs Online Boarding,Spearman,0.43576366965092345,0.0,0.43576366965092345,|ρ|,0.0,Rejet de H0,moyen
