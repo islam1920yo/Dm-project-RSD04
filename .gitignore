@@ -1,0 +1,21 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+ENV/
+
+# Byte-compiled / optimisés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Checkpoints Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Système & OS
+.DS_Store
+Thumbs.db
+*.tmp
